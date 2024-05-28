@@ -1,7 +1,7 @@
 # Overview
 Housing authorities in large cities track violations related to health, safety, and other concerns. However, due to a fragmented landscape with diverse stakeholders, communication gaps often occur. Public agency best efforts to notify owners of complaints are often insufficient due to ownership changes, management changes, or shortcomings in fulfilling tenant obligations. These gaps lead to delays that harm tenants by not addressing their issues promptly and hurt owners who unknowingly accrue fines from unaddressed violations. Our goal is to solve this by enabling anyone to subscribe for updates on specific properties, enhancing information flow, and making public data sets more accessible and user-friendly.
 
-We aim to improve the information flow and enable more effective use of public data sets which are currently under utilized due to the slow adoption of new technology in real estate, flag chronically delinquent properties as an indication of poor management, and also flag new violations and notify building owner/operators of these violations.
+We aim to improve the information flow to enable more effective use of public data sets which are currently under utilized due to the slow adoption of new technology in real estate, flag chronically delinquent properties as an indication of poor management, and also flag new violations and notify building owner/operators of these violations.
 ## Datasets
 We decided to start small with the largest housing authority in the United States. New York City, NY.
 The city of New York provides access to public datasets containing violation information.
