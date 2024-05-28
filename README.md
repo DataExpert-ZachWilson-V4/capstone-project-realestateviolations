@@ -25,7 +25,7 @@ The datasets we chose to give context to are as follows:
 ## Data model
 The data from the city of New York tracks all violations but overwrites most records and their timestamps when there are updates. This Type 1 SCD approach allows for no history to be observed as far as, how long violations took to process, how long violations have been open, or how frequently violations are reported. We aim to remedy this issue to gain and provide powerful insights from the data using the cumulative table design approach to begin modeling the slowly changing dimension with a Type 2 approach. 
 
-In doing so, we'll be able to derive intervals of time when violations were open and whether they have been sufficiently resolved or are being affected by larger scale systematic issues that cause them to reoccur -- bucketing by violation type will give us analytics on violation resolutions by type as well as other actionable metrics that we wish to present on a dashboard for tenants and owners. 
+In doing so, we'll be able to derive intervals of time when violations were open and whether they have been sufficiently resolved or are being affected by larger scale systematic issues that cause them to reoccur -- bucketing by violation type will give us analytics on violation resolutions by type as well as other actionable metrics that we wish to present on a dashboard for tenants, current owners, or future owners of NYC real estate. 
 
 Watching for changes in when violations are opened and/or closed, will allow for owner/operators to be notified that their address has been affected by a violation, and help to close the communication gap.
 
