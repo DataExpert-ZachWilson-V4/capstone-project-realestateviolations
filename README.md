@@ -4,7 +4,7 @@ Housing authorities in large cities track violations related to health, safety, 
 We aim to improve the information flow to enable more effective use of public data sets which are currently under utilized due to the slow adoption of new technology in real estate, flag chronically delinquent properties as an indication of poor management, and also flag new violations and notify building owner/operators of these violations.
 ## Datasets
 We decided to start small with the largest housing authority in North America. The New York City Department of Housing Preservation and Development (HPD) in New York City, NY.
-The city of New York provides access to public datasets containing HPD Complaints and violation information. This Agency also enforces the City's Housing Maintenance Code, which covers Life Health Saftey topics including heat, hot water, mold, pests, gas leaks, fire safety and any conditions observed to not comply with applicable housing laws.
+The city of New York provides access to public datasets containing HPD complaints and violation information. This Agency also enforces the City's Housing Maintenance Code, which covers Life Health Saftey topics including heat, hot water, mold, pests, gas leaks, fire safety and any conditions observed to not comply with applicable housing laws.
 We aim to collate this data in a presentable way that makes it easy to notify owner-operators of violations, and for future tenants to make informed renting decisions based on where high numbers of violations have not been addressed.
 
 The datasets we chose to give context to are as follows:
